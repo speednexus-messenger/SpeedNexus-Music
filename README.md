@@ -1,4 +1,4 @@
-# SpeedNexus_Music
+# SpeedNexus-Music
 
 Музыкальные релизы российского мессенджера SpeedNexus.  
 Здесь звучит то, о чём не говорят в чатах.
